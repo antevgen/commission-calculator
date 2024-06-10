@@ -1,0 +1,5 @@
+services:
+  binlist:
+    base_uri: "https://lookup.binlist.net/"
+  exchangeratesapi:
+    base_uri: "https://api.exchangeratesapi.io/latest"
